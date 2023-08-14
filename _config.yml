@@ -1,4 +1,5 @@
 name: ""
 title: null
+locale: "zh-TW"
 kramdown:
   hard_wrap: true

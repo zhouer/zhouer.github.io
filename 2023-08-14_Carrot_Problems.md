@@ -1,10 +1,7 @@
----
-title: Carrot Problems
-created: 2023-08-14
-tags: Translate
----
+# Carrot Problems 中譯
 
-# Carrot Problems
+created: 2023-08-14
+tags: #Translation
 
 原文：[Carrot Problems](https://www.atvbt.com/the-carrot-problem/)
 翻譯：ChatGPT
